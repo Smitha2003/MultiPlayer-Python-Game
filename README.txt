@@ -28,7 +28,3 @@ Port: 5555
 
 Important Classes
 Network: Manages client-server communication.
-
-Acknowledgements
-This project was built following a tutorial.
-https://www.techwithtim.net/tutorials/python-online-game-tutorial
